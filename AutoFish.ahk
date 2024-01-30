@@ -14,8 +14,8 @@ guiPosX := 0
 guiPosY := 0
 
 ; use F6 to get coordinates of a white pixel on the "Keep tapping to reel" text and put them here if pixel search is failing
-xCord := 772 
-yCord := 597
+xCord := 958 
+yCord := 596
 
 ; Create GUI
 Gui, +AlwaysOnTop
